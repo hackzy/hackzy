@@ -7,8 +7,8 @@
 
 ## 🔧 技能
 - **编程语言:** Python, JavaScript, C++, Html, Css
-- **框架和库:** Django, 
-- **工具:** Git, Docker, VS Code, 微信读书
+- **框架和库:** Django
+- **工具:** Git, Docker, VS Code, MySql, 微信读书
 
 ![hackzy GitHub stats](https://github-readme-stats.vercel.app/api?username=hackzy&show_icons=true&theme=ambient_gradient)
 
