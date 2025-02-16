@@ -26,5 +26,4 @@
 
 感谢访问我的主页！如果你有任何问题或者建议，随时可以联系我。
 
----
 ![Typing Animation](https://github.com/hackzy/hackzy/blob/main/gif.gif)
